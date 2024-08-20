@@ -21,7 +21,8 @@ comments:
 
 title: Collapsar # the main title
 
-tagline: Not all those who wander are lost. —— J. R. R. Tolkien 
+tagline: Not all those who wander are lost. 
+<br> —— J. R. R. Tolkien 
 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
