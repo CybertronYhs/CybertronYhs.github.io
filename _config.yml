@@ -19,19 +19,20 @@ comments:
   active: true
 
 
-title: Metricfield # the main title
+title: Collapsar # the main title
 
-tagline: Not all those who wander are lost. # it will display as the sub-title
+tagline: Not all those who wander are lost. —— J. R. R. Tolkien 
+# it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
  A personal blog by Ma Tao.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://Metricfield.github.io"
+url: "https://Collapsar0615.github.io"
 
 github:
-  username: Metricfield # change to your github username
+  username: Collapsar0615 # change to your github username
 
 #twitter:
  # username: twitter_username # change to your twitter username
@@ -44,7 +45,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
-    - https://github.com/Metricfield # change to your github homepage
+    - https://github.com/Collapsar0615 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -100,15 +101,15 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://cdn.jsdelivr.net/gh/Metricfield/Metricfield.github.io@master"
+cdn: "https://cdn.jsdelivr.net/gh/Collapsar0615/Collapsar0615.github.io@main"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://cdn.jsdelivr.net/gh/Metricfield/Metricfield.github.io@master/assets/img/avatar.jpg"
+avatar: "https://cdn.jsdelivr.net/gh/Collapsar0615/Collapsar0615.github.io@main/assets/img/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
-#"https://cdn.jsdelivr.net/gh/Metricfield/Metricfield.github.io@main/assets/img/avatar.jpg"
+#"https://cdn.jsdelivr.net/gh/Collapsar0615/Collapsar0615.github.io@main/assets/img/avatar.jpg"
 # boolean type, the global switch for TOC in posts.
 toc: true
 backgroud_animation: true
@@ -125,7 +126,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: Metricfield/Metricfield.github.io # <gh-username>/<repo>
+    repo: Collapsar0615/Collapsar0615.github.io # <gh-username>/<repo>
     repo_id: R_kgDOMkceyw
     category: Announcements
     category_id: DIC_kwDOMkcey84Chuqb
