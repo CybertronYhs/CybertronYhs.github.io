@@ -26,8 +26,8 @@ description: This blog mainly records the notes I took while studying group theo
 下面是各章节维护更新的情况
   - [x] 群的基本知识
   - [x] 群表示论的基础
-      - Aug 23-Aug 24,更新2.1-2-3节
-      - Aug 25-Aug 26,更新2.4-2.6节
+      - Aug 23,更新2.1节和2-2节(到酉表示)
+      - Aug 24
   - [ ] 点群
   - [ ] 转动群
   - [ ] 对称群与酉群
@@ -278,7 +278,7 @@ $$
 
 ### 酉表示
  设 $A$ 是群 $G$ 在内积空间 $V$ 上的表示, 若$A$ 是 $V$ 上幺正变换, 则 $A$ 称为 $G$ 的酉表示 ,亦即 $A$ 是 $G$ 到 $V$ 上幺正交换群的同态映射:$\forall g_\alpha, g_\beta \in G$, 有 $A\left(g_\alpha\right), A\left(g_\beta\right)$ 与之对应, 而且
- 
+
 $$
 \begin{aligned}
 A\left(g_\alpha g_\beta\right)&=A\left(g_\alpha\right) A\left(g_\beta\right), \\
