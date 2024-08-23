@@ -67,20 +67,21 @@ description: This blog mainly records the notes I took while studying group theo
 
 ### 线性变换
 设$V$是数域$K$上的线性空间,线性变换$A$是将$V$映入$V$的线性映射,即$\forall x,y \in V,a \in K$有
-$$
-\begin{align*}
+   \begin{equation}
+\begin{aligned}
 A:V &\to V,\ A(x) \in V;\\
 A(ax+y)&=aA(x)+A(y).
-\end{align*}
-$$
+\end{aligned}
+\end{equation}
 
 
 
 >  设$A$和$B$是从$V$到$V$的线性变换,则可定义线性变换的数乘、加法和乘法为:
-   $$
+$$
    \begin{aligned}
             (a A)(x)&=a(A(x)), \\
            (A+B)(x)&=A(x)+B(x), \\
         (A B)(x)&=A(B(x)) .
-    \end{aligned}$$
+    \end{aligned}
+$$
 {: .prompt-info }
