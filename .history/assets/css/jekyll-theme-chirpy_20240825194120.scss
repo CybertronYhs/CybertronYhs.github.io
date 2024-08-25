@@ -39,9 +39,26 @@ blockquote[class^='prompt-']{
     background-repeat: no-repeat; /* <- no-repeat */
     background-position: top; /* <- image position */
 
+    padding-top: 30px; /* 根据需要调整像素值 */
 }
 
+}
 
+/* 侧边栏相关文字样式设置 */
+#sidebar .site-title a {
+    color: #ffffff; 
+    text-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+#sidebar .site-subtitle {
+    color: #ffffff;
+    text-shadow: 2px 2px 3px rgba(0,0,0, 0.7);
+}
+#sidebar .sidebar-bottom .mode-toggle, #sidebar a {
+    color: #ffffff;
+}
+#sidebar .sidebar-bottom .btn {
+    color: var(--sidebar-btn-color);
+}
 
 // 让目录不产生折叠效果
 .is-collapsed {
