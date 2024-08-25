@@ -43,20 +43,19 @@ blockquote[class^='prompt-']{
 
 /* 侧边栏相关文字样式设置 */
 #sidebar .site-title a {
-    color: #000000; 
+    color: #ffffff; 
     text-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 #sidebar .site-subtitle {
-    color: #000000;
+    color: #ffffff;
     text-shadow: 2px 2px 3px rgba(0,0,0, 0.7);
 }
 #sidebar .sidebar-bottom .mode-toggle, #sidebar a {
-    color: #000000;
+    color: #ffffff;
 }
 #sidebar .sidebar-bottom .btn {
-    color: var(--sidebar-btn-color); /* 如果按钮颜色也需要更改，确保--sidebar-btn-color是黑色 */
+    color: var(--sidebar-btn-color);
 }
-
 
 // 让目录不产生折叠效果
 .is-collapsed {
