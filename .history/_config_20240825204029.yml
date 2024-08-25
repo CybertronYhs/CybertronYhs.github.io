@@ -128,17 +128,31 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: Collapsar0615/collapsar0615.github.io# <gh-username>/<repo>
-    repo_id: R_kgDOMl6u1w
+    repo_id: R_kgDOMkceyw
     category: Announcements
-    category_id: DIC_kwDOMl6u184Ch6eS
+    category_id: DIC_kwDOMkcey84Chuqb
     mapping: pathname # optional, default to 'pathname'
     strict: 0 # optional, default to '0'
-    input_position: top  # optional, default to 'bottom'
+    input_position: bottom  # optional, default to 'bottom'
     lang: zh-CN # optional, default to the value of `site.lang`
     reactions_enabled: 1 # optional, default to the value of `1`
-    data-loading: lazy
-    crossorigin: anonymous
 
+<script src="https://giscus.app/client.js"
+        data-repo=""
+        data-repo-id=""
+        data-category="Announcements"
+        data-category-id="DIC_kwDOMl6u184Ch6eS"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
 
 
 
