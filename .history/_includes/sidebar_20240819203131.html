@@ -53,11 +53,6 @@
     {% endif %}
   {% endunless %}
 
-  <!-- useful link -->
-  {% if site.data.friends %}
-      {% include link.html %}
-  {% endif %}
-
   {% for entry in site.data.contact %}
     {% case entry.type %}
       {% when 'github' %}

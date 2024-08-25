@@ -53,11 +53,11 @@
     {% endif %}
   {% endunless %}
 
-  <!-- useful link -->
+  <!-- Friends link -->
   {% if site.data.friends %}
-      {% include link.html %}
+      {% include friends.html %}
   {% endif %}
-
+  
   {% for entry in site.data.contact %}
     {% case entry.type %}
       {% when 'github' %}

@@ -92,34 +92,3 @@ html {
 @import "animation.scss";    // 背景动画样式
 @import "colorbox.scss";     // colorbox 样式
 @import "details.scss";      // details 元素样式
-/* 侧边栏友链样式设置 */
-#sidebar .links {
-    padding-left: 2.5rem;
-    padding-right: 1.25rem;
-    width: 100%;
-    margin-bottom: 1.5rem;
-}
-#sidebar .links p {
-    color: rgb(255,255,255,0.95);
-    font-family: inherit;
-    font-weight:600;
-    font-size: 95%;
-}
-#sidebar .links p i {
-    opacity: 0.8;
-    margin-right: 1.5rem;
-}
-#sidebar .links p span {
-    letter-spacing: 0.2px;
-    opacity: 0.9;
-}
-#sidebar .links ul {
-    color:white;
-    font-size:95%;
-    opacity: 0.95;
-    margin-bottom: 0rem;
-}
-#sidebar .links ul li {
-    margin-bottom: 0.4rem;
-    opacity: 0.9;
-}
