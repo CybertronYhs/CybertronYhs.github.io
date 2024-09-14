@@ -1,0 +1,9 @@
+/* 设置中文使用微软雅黑字体 */
+body {
+    font-family: 'KaiTi', sans-serif;
+}
+
+/* 设置字母和其他英文字符使用等宽字体 */
+code, pre, kbd, samp {
+    font-family: monospace;
+}
