@@ -1,0 +1,8 @@
+body {
+  font-family: 'Caveat', cursive;
+}
+
+/* 如果你只想让某些特定元素使用 Caveat 字体，比如所有英文文字 */
+.english-text {
+  font-family: 'Caveat', cursive;
+}
