@@ -127,3 +127,21 @@ html {
     opacity: 0.9;
 }
 /* 设置中文字体为微软雅黑 */
+body {
+    font-family: 'Microsoft YaHei', '微软雅黑', sans-serif;
+}
+
+/* 针对代码块和内联代码使用 monospace 字体 */
+code, pre {
+    font-family: 'Monospace', monospace;
+}
+
+/* 进一步指定其他元素如标题、段落等 */
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Microsoft YaHei', '微软雅黑', sans-serif;
+}
+
+/* 代码块中的字体样式 */
+pre {
+    font-family: 'Monospace', monospace;
+}

@@ -11,14 +11,14 @@
 
 /* 首页预览 post 标题字体加粗 */
  #post-list .card-title {
-  font-weight: bold;
- }
+//   font-weight: bold;
+// }
 
 /* 主页 post 列表加阴影 */
- #post-list .card {
-   border-radius: 0.7rem;
-    box-shadow: var(--language-border-color) 1px 1px 2px 1px;
-}
+// #post-list .card {
+//     border-radius: 0.7rem;
+//     box-shadow: var(--language-border-color) 1px 1px 2px 1px;
+// }
 
 // prompt 边框阴影
 blockquote[class^='prompt-']{
@@ -126,4 +126,3 @@ html {
     margin-bottom: 0.4rem;
     opacity: 0.9;
 }
-/* 设置中文字体为微软雅黑 */
