@@ -1,7 +1,7 @@
 ---
 title:      "Summary of Differential Geometry"
 date:       2024-05-27
-categories: [Mathematics, Topology]
+categories: [Mathematics]
 tag: [Differential Geometry]
 toc: True
 math: True
