@@ -1,6 +1,6 @@
 ---
 title:      "Summary of Differential Geometry"
-date:       2024-05-27
+date:   
 categories: [Mathematics]
 tag: [Differential Geometry]
 toc: True

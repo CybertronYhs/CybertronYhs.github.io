@@ -1,6 +1,6 @@
 ---
 title:      "Notes of Group Theory"
-date:       2024-08-17
+date:   
 categories: [Mathematics, Algebra]
 tag: [Group Theory]
 toc: true
