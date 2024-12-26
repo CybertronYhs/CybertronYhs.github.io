@@ -18,7 +18,6 @@ timezone: Asia/Shanghai
 comments:
   active: true
 
-
 title: Collapsar # the main title
 
 tagline: Not all those who wander are lost. 
@@ -208,7 +207,12 @@ sass:
 compress_html:
   clippings: all
   comments: all
-  endings: all
+  endings: all 
+
+
+
+
+
   profile: false
   blanklines: false
   ignore:
