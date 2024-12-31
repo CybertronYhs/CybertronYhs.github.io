@@ -5,7 +5,7 @@ categories: [Mathematics,Algebra]
 tag: [Lecture Notes]
 toc: True
 math: True
-description: "These are the notes and assignments I kept while studying Group Theory during the Fall 2024 semester."
+description: "These are the notes I kept while studying Group Theory during the Fall 2024 semester."
 image: 
     path: /assets/img/in-post/2024/group theory.jpg
 ---
