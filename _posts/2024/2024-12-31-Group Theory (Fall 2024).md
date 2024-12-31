@@ -17,4 +17,5 @@ This semester’s group theory course was taught by [He Song](https://people.uca
 - [Group Theory, Fall 2024](/assets/PDF/群论24秋.pdf) 
 - [A.Zee](/assets/PDF/A.Zee.pdf) 
 - [Cayley Graphs related](/assets/PDF/凯莱图相关.pdf) 
+- [The Basic Concepts of Groups and Representation Theory](/assets/PDF/群论前两章.pdf)
 </details>
