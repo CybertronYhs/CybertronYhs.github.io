@@ -104,7 +104,7 @@ theme_mode: # [light | dark]
 cdn: "https://cdn.jsdelivr.net/gh/CybertronYhs/CybertronYhs.github.io@main"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "C:/Users/24421/Documents/GitHub/CybertronYhs.github.io/assets/img/12.jpg"
+avatar: "/assets/img/12.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
