@@ -29,10 +29,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://Collapsar0615.github.io"
+url: "https://CybertronYhs.github.io"
 
 github:
-  username: Collapsar0615 # change to your github username
+  username: CybertronYhs # change to your github username
 
 #twitter:
  # username: twitter_username # change to your twitter username
@@ -45,7 +45,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
-    - https://github.com/Collapsar0615 # change to your github homepage
+    - https://github.com/CybertronYhs # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -101,15 +101,15 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://cdn.jsdelivr.net/gh/Collapsar0615/Collapsar0615.github.io@main"
+cdn: "https://cdn.jsdelivr.net/gh/CybertronYhs/CybertronYhs.github.io@main"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://cdn.jsdelivr.net/gh/Collapsar0615/Collapsar0615.github.io@main/assets/img/1.jpg"
+avatar: "https://cdn.jsdelivr.net/gh/CybertronYhs/CybertronYhs.github.io@main/assets/img/1.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
-#"https://cdn.jsdelivr.net/gh/Collapsar0615/Collapsar0615.github.io@main/assets/img/avatar.jpg"
+#"https://cdn.jsdelivr.net/gh/CybertronYhs/CybertronYhs.github.io@main/assets/img/avatar.jpg"
 # boolean type, the global switch for TOC in posts.
 toc: true
 backgroud_animation: true
@@ -117,7 +117,7 @@ backgroud_animation: true
 comments:
   provider: giscus  # 启用Giscus评论系统
   giscus:
-    repo: Collapsar0615/collapsar0615.github.io  # 正确的仓库路径，不带任何注释
+    repo: CybertronYhs/CybertronYhs.github.io  # 正确的仓库路径，不带任何注释
     repo_id: R_kgDOMl6u1w  # 从Giscus获取的repo ID
     category: Announcements  # 评论的分类名称
     category_id: DIC_kwDOMl6u184Ch6eS  # 从Giscus获取的分类ID
