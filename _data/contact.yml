@@ -4,11 +4,11 @@
 
 - type: github
   icon: fab fa-github
-  url: https://github.com/Metricfield
+  url: https://github.com/CybertronYhs
 
 - type: email
   icon: fas fa-envelope
-  url: mailto:matao24@mails.ucas.ac.cn
+  url: https://mail.cstnet.cn/
 
 - type: zhihu
   icon: fab fa-zhihu

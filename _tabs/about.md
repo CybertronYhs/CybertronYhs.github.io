@@ -4,7 +4,7 @@ icon:  far fa-address-book
 order: 4
 ---
 
-Here is **Collapsar** (Ma Tao).Welcome to my homepage!
+Here is **CybertronYhs** (Haoshi Yuan).Welcome to my homepage!
 
 
 
@@ -15,19 +15,19 @@ Here is **Collapsar** (Ma Tao).Welcome to my homepage!
 HIAS,UCAS,(Theoretical Physics).
 
 - **Oct 2020 - June 2024:** 
-Nanjing Tech University (BSc,Applied Physics).
+Shanghai University (QianWeiChang College, Applied Physics).
 
 
-<!--
+
 # Research Interests ⚛️
 
-- 
-- 
+- Cosmology (Inflation)
+- Gravity and its holographic properties
 
 ---
 
 ## News and Updates 👣
-- **June 2024：** I graduated from Nanjing Tech University with an Excellence Bachelor's Degree in Science and was awarded the title of Outstanding Graduate.🎉
--->
+- **June 2024
+
 
 
